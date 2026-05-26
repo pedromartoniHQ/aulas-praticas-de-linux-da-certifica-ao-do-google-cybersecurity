@@ -97,7 +97,9 @@ Para arquivos grandes, como logs de servidor, nem sempre queremos ver o arquivo 
 | **`cat`** | *Concatenate* - Exibe o conteúdo completo de um arquivo de texto. | `cat arquivo.txt` |
 | **`head`** | Exibe as linhas iniciais de um arquivo (padrão: 10 linhas). | `head log.txt` |
 <img width="868" height="568" alt="linux" src="https://github.com/user-attachments/assets/b36448ca-1d4c-4636-b9a0-8049f5772a4e" />
-<img width="868" height="568" alt="image" src="https://github.com/user-attachments/assets/00e15b11-d5af-4e2a-854c-5e009847550b" />
+<img width="864" height="564" alt="image" src="https://github.com/user-attachments/assets/c1aa804a-3b7f-4c52-95f1-3894af5442d7" />
+<img width="869" height="565" alt="image" src="https://github.com/user-attachments/assets/e5946c1c-1b28-436a-8d8f-e636d80c4d4c" />
+
 
 
 
