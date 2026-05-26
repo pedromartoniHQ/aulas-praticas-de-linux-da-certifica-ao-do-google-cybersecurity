@@ -96,8 +96,10 @@ Para arquivos grandes, como logs de servidor, nem sempre queremos ver o arquivo 
 | **`cd`** | *Change Directory* - Muda de pasta (navegação). | `cd /home/analyst` |
 | **`cat`** | *Concatenate* - Exibe o conteúdo completo de um arquivo de texto. | `cat arquivo.txt` |
 | **`head`** | Exibe as linhas iniciais de um arquivo (padrão: 10 linhas). | `head log.txt` |
+<img width="868" height="568" alt="linux" src="https://github.com/user-attachments/assets/b36448ca-1d4c-4636-b9a0-8049f5772a4e" />
+<img width="868" height="568" alt="image" src="https://github.com/user-attachments/assets/00e15b11-d5af-4e2a-854c-5e009847550b" />
 
---- <img width="1920" height="1080" alt="linux" src="https://github.com/user-attachments/assets/de739c75-b937-4231-a16f-b5f8acbd7d50" />
-<img width="1920" height="1080" alt="linux 3" src="https://github.com/user-attachments/assets/f448040b-44fa-4da1-8a50-8f74925a9b72" />
-<img width="1920" height="1080" alt="linux 2" src="https://github.com/user-attachments/assets/8f28f280-584f-4bde-8f03-5fe816e89e07" />
-<img width="1920" height="1080" alt="linux 1" src="https://github.com/user-attachments/assets/f505cd9a-9b67-4ab6-9391-bf2e6f047032" />
+
+
+
+
