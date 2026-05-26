@@ -64,9 +64,8 @@ Navegamos até o destino final para inspecionar os dados de um arquivo específi
     cat Q1_added_users.txt
     ```
 
-> 💡 **Nota:** O comando `cat` imprime todo o conteúdo do arquivo na tela. Com base nessa leitura, respondemos às seguintes perguntas do laboratório:
-> * *Em qual departamento o usuário `aezra` trabalha?* **Human Resources (Recursos Humanos)**.
-> * *Qual é o ID (employee_id) do usuário `mreed` do TI?* **1104**.
+> 💡 **Nota:** O comando `cat` imprime todo o conteúdo do arquivo na tela.
+
 
 ---
 
